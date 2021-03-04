@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        
+        // Testing: my new commit
         
         let string: NSString = "[{\"user\":\"ylc\", \"name\":\"bbbb\"}]"
         let data = string.dataUsingEncoding(NSUTF8StringEncoding)
